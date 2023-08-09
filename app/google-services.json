@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1045163514749",
+    "project_id": "odidi-915df",
+    "storage_bucket": "odidi-915df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1045163514749:android:a5f6119793cdcd65b14a14",
+        "android_client_info": {
+          "package_name": "com.example.odidi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1045163514749-6b4esefj1gf5j49ittjropnas6k9073o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBei6ngqyXsvoTs_aR6oScVmAxdHC6HEeE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1045163514749-6b4esefj1gf5j49ittjropnas6k9073o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
