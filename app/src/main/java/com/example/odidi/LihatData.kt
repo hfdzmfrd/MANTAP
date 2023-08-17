@@ -17,7 +17,7 @@ class LihatData : AppCompatActivity() {
         val db = Firebase.firestore
         var arrayAdapter: ArrayAdapter<*>
         var listView = findViewById<ListView>(R.id.listView)
-
+//sip
         db.collection("Inventori")
             .get()
             .addOnSuccessListener { result ->
